@@ -1,0 +1,7 @@
+C:\Users\Sattar\Documents\Classes\P210\20190506\Solution20190506\DemoStar\bin\Debug\DemoStar.exe.config
+C:\Users\Sattar\Documents\Classes\P210\20190506\Solution20190506\DemoStar\bin\Debug\DemoStar.exe
+C:\Users\Sattar\Documents\Classes\P210\20190506\Solution20190506\DemoStar\bin\Debug\DemoStar.pdb
+C:\Users\Sattar\Documents\Classes\P210\20190506\Solution20190506\DemoStar\obj\Debug\DemoStar.csprojAssemblyReference.cache
+C:\Users\Sattar\Documents\Classes\P210\20190506\Solution20190506\DemoStar\obj\Debug\DemoStar.csproj.CoreCompileInputs.cache
+C:\Users\Sattar\Documents\Classes\P210\20190506\Solution20190506\DemoStar\obj\Debug\DemoStar.exe
+C:\Users\Sattar\Documents\Classes\P210\20190506\Solution20190506\DemoStar\obj\Debug\DemoStar.pdb
